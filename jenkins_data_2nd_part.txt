@@ -1,0 +1,1 @@
+This text is used to check Jenkins poll SCM triggering where jenkins automatically check after certain time - i set it default 15 min . It check is there any changes happened in code . If yes - it create the build , if not , it will not `
