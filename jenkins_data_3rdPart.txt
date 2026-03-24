@@ -1,0 +1,1 @@
+This is the third file which I used to push to github and i check the setting by which an automated trigger will happen and my jenkins will automatically build the code. For this i use ngrok for public ip and also use webhooks which were very difficult to setup.
