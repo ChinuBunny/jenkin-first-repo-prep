@@ -1,0 +1,20 @@
+1. You create app.sh + Dockerfile
+
+2. Push to GitHub
+
+3. Jenkins:
+   → Clones repo
+   → Runs docker build
+
+4. Docker:
+   → Reads Dockerfile
+   → Creates image
+
+5. Jenkins:
+   → Runs docker run
+
+6. Container starts:
+   → CMD runs app.sh
+
+7. Output shown:
+   → Hello from Jenkins + Docker
